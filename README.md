@@ -16,4 +16,8 @@ No frills Python again this year.
 - **Day 6: Guard Gallivant** — Traveling today, did Part 1 on the train out but very late to Part 2... tried to be clever but brute force did it 😬 Too distracted to get into the task really, but I do like the grid navigation problems. SLOC: 35.
 - **Day 7: Bridge Repair** — Totally fine... except for the fact that I rashly decided to use a `dict` for the storage of the problems :man-facepalming: Part 2 was sped up a bit by (a) only processing entries not passing Part 1 and (b) early stopping when solutions are found or `n` is exceeded, but it still takes 15 s. SLOC: 30.
 
+## Week 2
+
+- **Day 8: Resonant Collinearity** — Was expecting a tough day (day 8, a Sunday) so relieved to find some manageable vector maths, easy to do with complex numbers. Extending to any number of antinodes in Part 2 was simple. SLOC: 28.
+
 When counting SLOC, I don't include blank or comment lines.
